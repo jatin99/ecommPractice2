@@ -33,7 +33,7 @@
 <body>
     <div class="container">
         <div class="col-sm-6 mx-auto">
-            <h2 class="mb-4"><b>Super Ecom SHOP Version 2</b></h2>
+            <h2 class="mb-4"><b>Super Ecom SHOP Version Karthik</b></h2>
             <form action="userloginvalidate" method="post">
                 <div class="form-group">
                     <label for="username">Username</label>
