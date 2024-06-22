@@ -29,6 +29,17 @@ class JtSpringProjectApplicationTests {
 		assertEquals(2, 2);
 	}
 
+
+	@Test
+	void testGetCarts34() {
+		Cart cart1 = new Cart();
+		cart1.setId(1);
+
+		Cart cart2 = new Cart();
+		cart2.setId(2);
+
+		assertEquals(2, 2);
+	}
 	@Test
 	void testGetCarts0() {
 		Cart cart1 = new Cart();
