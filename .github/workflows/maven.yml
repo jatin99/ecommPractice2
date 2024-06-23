@@ -8,7 +8,8 @@ on:
 
 jobs:
   build:
-    runs-on: github-runner-ec2-new
+    runs-on: ubuntu-latest
+
 
     steps:
     - uses: actions/checkout@v4
