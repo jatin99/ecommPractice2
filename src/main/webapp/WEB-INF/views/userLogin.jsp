@@ -13,7 +13,7 @@
     <!-- Custom CSS -->
     <style>
         body {
-            background-color:#fc1c03; /* Light gray background */
+            background-color:#FFFF00; /* Light gray background */
         }
         .container {
             margin-top: 50px;
@@ -33,7 +33,7 @@
 <body>
     <div class="container">
         <div class="col-sm-6 mx-auto">
-            <h2 class="mb-4"><b>Super Ecom SHOP Version Rahul</b></h2>
+            <h2 class="mb-4"><b>Super Ecom SHOP Version Hitesh</b></h2>
             <form action="userloginvalidate" method="post">
                 <div class="form-group">
                     <label for="username">Username</label>
